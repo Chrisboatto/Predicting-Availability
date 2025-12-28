@@ -1,6 +1,6 @@
 # Predicting-Availability
 
-he quote “the greatest ability is availability” may have originated on the football field, but it rings just as true on the baseball diamond. In a sport where a player’s value is inextricably linked to their presence in the lineup or on the mound, the challenge of predicting playing time is one of the most significant hurdles for modern front offices.
+The quote “the greatest ability is availability” may have originated on the football field, but it rings just as true on the baseball diamond. In a sport where a player’s value is inextricably linked to their presence in the lineup or on the mound, the challenge of predicting playing time is one of the most significant hurdles for modern front offices.
 
 Whether we are measuring a batter’s contribution through plate appearances (PA) or a pitcher’s workload through batters faced (BF), accurate forecasting is the cornerstone of efficient team building. When a team can reliably predict how much a player will play, they gain a competitive edge in player valuation, contract negotiations, and long-term roster planning.
 
